@@ -3,11 +3,11 @@
 ## Problema
 
 Mulheres em situação de violência doméstica que pedem ajuda precisam, com
-frequência, passar por mais de um serviço da rede de proteção — segurança
+frequência, passar por mais de um serviço da rede de proteção, segurança
 pública, saúde, assistência social e Justiça. Cada serviço produz seus
-próprios registros conforme sua atribuição, e as fontes consultadas pelo grupo
+próprios registros conforme sua atribuição, e as fontes consultadas
 não permitem concluir que exista uma visão única e contínua do atendimento ao
-longo desse percurso. O problema investigado, portanto, não é a ausência de
+longo desse percurso. O problema investigado não é a ausência de
 encaminhamentos, que existem e estão documentados, mas o que acontece depois
 deles: se há retorno entre os serviços, quem permanece responsável pelo
 acompanhamento e com que frequência a mulher precisa repetir seu relato.
@@ -43,9 +43,11 @@ utilizada pela cidadã e por profissionais, mas contratada por órgãos e
 instituições públicas responsáveis pelos serviços de proteção. Quem se beneficia
 não é, portanto, quem paga.
 
-> **[Completar após a seção 5]** — acrescentar aqui, em uma ou duas frases, a
-> forma de captura de valor definida no Business Model Canvas (licenciamento,
-> convênio, contratação por edital ou outro formato).
+A hipótese de captura de valor é a contratação ou o licenciamento da
+plataforma por órgãos públicos da rede de proteção via convênio, edital ou
+assinatura institucional, já que a mulher e os profissionais utilizam a
+solução sem serem a parte pagante. Essa hipótese ainda precisa ser detalhada 
+no Business Model Canvas.
 
 ## Estágio atual
 
@@ -67,7 +69,3 @@ Especializado no Rio de Janeiro. A conclusão mais segura é que a continuidade
 depende de como cada rede local organiza registros, fluxos e relações entre
 serviços — o que sustenta a escolha de um recorte territorial específico para
 validação, em vez de uma proposta genérica para toda a rede brasileira.
-
-Esse resultado é de base documental e bibliográfica. A validação com
-profissionais da rede, prevista na seção 3.9, ainda não foi realizada e é o
-próximo passo do grupo.

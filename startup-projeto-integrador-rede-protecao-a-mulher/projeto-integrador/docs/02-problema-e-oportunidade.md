@@ -16,7 +16,7 @@ encaminhada, se as informações necessárias acompanham esse atendimento e se
 existe algum tipo de retorno ou acompanhamento após essa transição.
 
 Nesse contexto, surge a possibilidade de uma descontinuidade na jornada de
-proteção. O grupo não parte da afirmação de que os órgãos não se comunicam ou
+proteção. Não partimos da afirmação de que os órgãos não se comunicam ou
 de que o acompanhamento seja inexistente. O objetivo é compreender como esse
 fluxo acontece atualmente e identificar se existem dificuldades ou pontos de
 interrupção entre o primeiro pedido de ajuda e a continuidade da proteção.
@@ -62,7 +62,7 @@ problema analisado. Dados do Fórum Brasileiro de Segurança Pública e do
 Instituto Datafolha (2025) mostram não apenas a alta ocorrência de violência,
 mas também diferenças importantes na forma como as mulheres buscam apoio após
 uma situação de agressão. A tabela a seguir reúne alguns dos principais dados
-utilizados pelo grupo para compreender esse cenário.
+que utilizamos para compreender esse cenário.
 
 **Tabela 1 – Indicadores de vitimização e busca por apoio (12 meses anteriores)**
 
@@ -168,7 +168,7 @@ Conselho Nacional de Justiça (2025) e Ministério das Mulheres (2026).*
 Os documentos analisados mostram que existem instrumentos de registro,
 encaminhamento e avaliação de risco em diferentes pontos da rede. No entanto,
 essas fontes não permitem concluir que exista uma visão única e contínua do
-atendimento em todos os serviços. Por isso, o grupo pretende verificar em
+atendimento em todos os serviços. Por isso, pretendemos verificar em
 quais etapas podem surgir dificuldades, como na passagem de um serviço para
 outro, na ausência de retorno sobre encaminhamentos, no acesso a registros
 anteriores ou na definição de quem permanece responsável pelo
@@ -182,7 +182,7 @@ pode gerar desgaste ou revitimização, considerando também questões de sigilo
 privacidade, autonomia da mulher e limites legais para o compartilhamento de
 informações.
 
-Para orientar a validação, o grupo pretende investigar questões como:
+Para orientar a validação, pretendemos investigar questões como:
 
 - quais registros ou sistemas são utilizados em cada serviço;
 - quais informações acompanham os encaminhamentos;
@@ -194,7 +194,7 @@ Para orientar a validação, o grupo pretende investigar questões como:
 
 ## 2.6. Oportunidade identificada
 
-A oportunidade identificada pelo grupo está em compreender com maior clareza
+A oportunidade que identificamos está em compreender com maior clareza
 como ocorre a continuidade do atendimento após o primeiro pedido de ajuda.
 Para isso, será necessário mapear os principais pontos da jornada, os
 encaminhamentos realizados, os registros produzidos e a forma como ocorre o
@@ -207,14 +207,8 @@ já permitem identificar dificuldades relacionadas à continuidade dos
 atendimentos, aos encaminhamentos, ao retorno entre serviços e à repetição de
 informações.
 
-Com base nessas evidências, o grupo poderá avançar para a construção da
+Com base nessas evidências, poderemos avançar para a construção da
 proposta de valor e do modelo de negócio, tratando a solução como uma
 hipótese que poderá ser refinada ao longo do projeto. Novas validações,
 inclusive com profissionais da rede caso sejam realizadas, poderão confirmar,
 ajustar ou redirecionar essa proposta.
-
-**Pergunta orientadora:**
-
-> Como são registrados, encaminhados e acompanhados os atendimentos de
-> mulheres em situação de violência doméstica ao longo da rede de proteção, e
-> em quais pontos essa continuidade pode ser interrompida?

@@ -40,7 +40,6 @@ depende da articulação entre diferentes instituições, os recursos necessári
 vão além da tecnologia e incluem conhecimento especializado e relacionamento
 institucional.
 
-**Quadro 1 – Recursos-chave da plataforma**
 
 | Recurso | Por que é crítico |
 |----------|----------|
@@ -94,7 +93,6 @@ legitimidade institucional, acesso ao contexto de atuação e apoio à validaç�
 da solução. Por esse motivo, as parcerias desempenham papel estratégico no
 modelo de negócio.
 
-**Quadro 2 – Parcerias-chave do modelo de negócio**
 
 | Parceiro | Papel no modelo |
 |----------|----------|

@@ -6,13 +6,12 @@
 
 ## O que a professora exige nesta seção
 
-[Copiar aqui a coluna "O que deve constar" da tabela do roteiro para esta
-seção, como lembrete rápido ao abrir o arquivo.]
+Esta seção será desenvolvida nas próximas etapas do projeto, após a conclusão da fase de validação do problema, definição da proposta de valor e consolidação do modelo de negócio.
 
 ## Evidências mínimas exigidas
 
-[Copiar aqui a coluna "Evidências mínimas" da tabela do roteiro.]
+
 
 ## Status
 
-- [ ] Não iniciado
+- [x] Não iniciado

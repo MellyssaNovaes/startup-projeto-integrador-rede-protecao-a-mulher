@@ -116,7 +116,7 @@ O gerenciamento das atividades do projeto é realizado por meio da plataforma **
 
 ---
 
-# 📈 Fluxo de Evolução do Projeto
+# Fluxo de Evolução do Projeto
 
 ```text
 Problema e Oportunidade
@@ -140,7 +140,7 @@ Demo Day e Defesa Final
 
 ---
 
-# ✅ Status Atual
+# Status Atual
 
 | Entrega | Status |
 |----------|----------|

@@ -1,6 +1,6 @@
 # 4. Proposta de Valor e Mercado
 
-A partir das evidências reunidas nas etapas anteriores, o grupo identifica
+A partir das evidências reunidas nas etapas anteriores, identificamos
 uma oportunidade para desenvolver uma solução tecnológica voltada à
 continuidade da jornada de proteção de mulheres em situação de violência
 doméstica. A proposta parte principalmente das dificuldades observadas na
@@ -8,7 +8,7 @@ passagem entre diferentes serviços da rede, como acompanhamento dos
 encaminhamentos, retorno entre instituições, orientação sobre os próximos
 passos e repetição de informações ao longo dos atendimentos.
 
-Como hipótese de solução, o grupo propõe uma plataforma digital que conecte a
+Como hipótese de solução, propomos uma plataforma digital que conecte a
 experiência da mulher ao trabalho realizado pelos diferentes serviços da rede
 de proteção. A plataforma deverá permitir que a mulher acompanhe, de forma
 segura, informações relevantes sobre sua jornada e seus próximos passos,
@@ -49,7 +49,7 @@ acesso automaticamente a todo o conteúdo existente sobre a mulher, mas
 somente às informações necessárias para executar sua etapa do atendimento. A
 plataforma deverá prever diferentes níveis de permissão, além de mecanismos
 que permitam registrar quem acessou ou atualizou determinadas informações.
-Esse cuidado é especialmente relevante porque o próprio levantamento do grupo
+Esse cuidado é especialmente relevante porque nosso próprio levantamento
 identificou questões relacionadas à privacidade, ao sigilo, à autonomia da
 mulher e aos limites de compartilhamento de informações entre serviços.
 
@@ -75,8 +75,8 @@ de informações. Em determinadas situações, um profissional pode precisar
 realizar uma nova escuta ou confirmar informações específicas de acordo com
 sua atribuição. A proposta é reduzir repetições evitáveis, permitindo o
 aproveitamento seguro de informações já registradas quando isso for
-adequado. Essa preocupação está diretamente relacionada às evidências
-levantadas pelo grupo sobre repetição do relato e possíveis situações de
+adequado. Essa preocupação está diretamente relacionada às evidências que
+levantamos sobre repetição do relato e possíveis situações de
 revitimização durante a passagem entre diferentes serviços.
 
 Inicialmente, o sistema poderia ser desenvolvido de forma mais limitada,
@@ -203,9 +203,185 @@ A proposta não busca eliminar a atuação individual de cada serviço nem
 impedir novas escutas quando forem necessárias. Seu objetivo é permitir que
 informações já disponíveis possam ser utilizadas de maneira segura e
 adequada, reduzindo repetições evitáveis e favorecendo a continuidade entre
-os diferentes atendimentos. Essa preocupação acompanha o que já foi
-identificado na pesquisa do grupo sobre repetição do relato e risco de
+os diferentes atendimentos. Essa preocupação acompanha o que já
+identificamos em nossa pesquisa sobre repetição do relato e risco de
 revitimização.
+
+## 4.4. Concorrentes e alternativas existentes
+
+A análise de concorrentes e alternativas considera que nossa proposta
+está inserida em um contexto no qual já existem canais de atendimento,
+aplicativos, sistemas institucionais e modelos integrados de proteção às
+mulheres. Essas iniciativas não devem ser tratadas necessariamente como
+concorrentes diretas da plataforma proposta, pois possuem objetivos e formas
+de atuação diferentes. Algumas funcionam como alternativas já disponíveis e
+outras podem atuar de forma complementar à solução.
+
+Entre as principais iniciativas analisadas estão o Ligue 180, o aplicativo
+PenhaS, o Maria da Penha Virtual, a Casa da Mulher Brasileira e os próprios
+sistemas utilizados pelos órgãos da rede de proteção.
+
+| Alternativa existente | Principal função | Relação com a nossa proposta |
+|---|---|---|
+| Ligue 180 | Oferece orientação sobre direitos e serviços da rede, registra denúncias e realiza encaminhamentos aos órgãos competentes. | Atua principalmente como canal de orientação, denúncia e encaminhamento. A plataforma proposta concentra-se na continuidade da jornada após a entrada na rede e no acompanhamento das transições entre serviços. |
+| PenhaS | Aplicativo voltado à informação, acolhimento e proteção, com recursos como mapa de serviços, Manual de Fuga, contatos de confiança, pedido de ajuda e atendimento especializado. | Possui forte atuação no apoio direto à mulher. Nossa proposta diferencia-se por incluir também profissionais e instituições, buscando acompanhar institucionalmente os encaminhamentos entre os serviços. |
+| Maria da Penha Virtual | Permite que mulheres solicitem medidas protetivas de urgência de forma digital, enviando informações diretamente ao Poder Judiciário. | Digitaliza uma etapa específica da jornada de proteção. Nossa plataforma possui escopo diferente, buscando acompanhar a passagem da mulher por diferentes tipos de serviço. |
+| Casa da Mulher Brasileira | Reúne diferentes serviços especializados em um mesmo espaço, como acolhimento, apoio psicossocial, segurança pública, Justiça, Ministério Público e Defensoria Pública. | Representa uma referência de atendimento integrado. A proposta tecnológica pode complementar esse modelo, principalmente nos encaminhamentos realizados para serviços externos ou em localidades onde os atendimentos não estão concentrados fisicamente. |
+| Sistemas próprios dos órgãos | Registram informações específicas conforme as atribuições de saúde, segurança pública, Justiça, assistência social e demais áreas. | A plataforma não pretende substituir esses sistemas. A proposta é criar uma camada de continuidade capaz de registrar a jornada, os encaminhamentos e as informações essenciais que possam ser compartilhadas de forma autorizada entre os diferentes serviços. |
+
+O Ligue 180 oferece orientação sobre direitos e serviços disponíveis,
+registra denúncias e realiza encaminhamentos para os órgãos competentes. Em
+2026, o Ministério das Mulheres também informa que a Central acompanha a
+tramitação das denúncias encaminhadas e permite que a usuária consulte seu
+andamento por meio do protocolo recebido.
+
+O PenhaS, desenvolvido pelo Instituto AzMina, reúne funcionalidades de
+informação, acolhimento e pedido de ajuda. Entre seus recursos estão o Manual
+de Fuga, contatos de confiança para situações de emergência, gravação de
+áudio, atendimento profissional e mapa de serviços públicos de apoio.
+
+Já o Maria da Penha Virtual, disponibilizado pelo Tribunal de Justiça do
+Estado do Rio de Janeiro, é um web app que possibilita à mulher preencher
+seus dados, relatar a violência, anexar provas e solicitar medidas protetivas
+de urgência de forma digital. Portanto, sua função está concentrada em uma
+etapa específica relacionada ao acesso à proteção judicial.
+
+A Casa da Mulher Brasileira representa outra forma de enfrentar a
+fragmentação do atendimento. O modelo reúne em um mesmo espaço diferentes
+serviços especializados, buscando facilitar o acesso e reduzir deslocamentos
+entre instituições. Em agosto de 2026, o Ministério das Mulheres informava a
+existência de 13 unidades da Casa da Mulher Brasileira em funcionamento no
+país.
+
+A comparação mostra que as iniciativas existentes atuam em diferentes partes
+da jornada: denúncia, orientação, emergência, acesso a medidas protetivas,
+localização de serviços ou concentração física de atendimentos. A hipótese de
+diferenciação da plataforma que propomos está no acompanhamento
+contínuo da passagem entre esses diferentes pontos da rede, permitindo que a
+mulher visualize sua jornada e que profissionais autorizados tenham acesso às
+informações necessárias para dar continuidade ao atendimento.
+
+Dessa forma, a plataforma não pretende substituir canais como o Ligue 180,
+aplicativos de apoio ou os sistemas próprios das instituições. A proposta é
+funcionar de maneira complementar, conectando etapas da jornada que
+atualmente podem ocorrer em sistemas, serviços e instituições diferentes.
+
+O levantamento realizado até o momento não permite afirmar que não exista
+nenhuma solução com características semelhantes no Brasil. Entretanto, entre
+as alternativas analisadas, não foi identificada uma plataforma com
+exatamente a mesma combinação de acompanhamento da jornada da mulher, gestão
+dos encaminhamentos entre diferentes serviços e acesso institucional por
+níveis de permissão. Essa diferenciação deverá continuar sendo validada
+durante o desenvolvimento da startup.
+
+## 4.5. Análise de mercado
+
+A análise de mercado da proposta precisa considerar uma característica
+importante do negócio: quem utiliza e recebe o benefício da plataforma não é
+necessariamente quem irá contratá-la. A mulher em situação de violência é a
+principal beneficiária e uma das usuárias da solução, enquanto profissionais
+da rede também utilizariam a plataforma durante os atendimentos. Já os
+potenciais clientes responsáveis pela contratação ou adoção da tecnologia
+seriam, inicialmente, órgãos e instituições responsáveis pelos serviços de
+proteção e atendimento.
+
+A dimensão social do problema demonstra a existência de um público potencial
+expressivo. A pesquisa Visível e Invisível apontou que 37,5% das mulheres
+brasileiras com 16 anos ou mais sofreram alguma forma de violência nos 12
+meses anteriores ao levantamento de 2025, representando pelo menos 21,4
+milhões de mulheres. Esse número não representa diretamente o mercado pagante
+da startup, mas demonstra a dimensão da população que pode se beneficiar de
+melhorias na jornada de proteção.
+
+Do ponto de vista institucional, o mercado também envolve uma rede ampla de
+serviços. O Relatório Anual Socioeconômico da Mulher de 2026 registrou 2.617
+serviços especializados de atendimento a mulheres em situação de violência no
+Brasil em 2025. Entre eles estavam delegacias especializadas, centros de
+referência, unidades de saúde especializadas, juizados e varas de violência
+doméstica, defensorias, promotorias, Casas da Mulher Brasileira e outros
+serviços.
+
+Esses dados mostram que a oportunidade de mercado não está relacionada apenas
+ao número de mulheres potencialmente beneficiadas, mas também à quantidade e
+à diversidade de instituições que participam da rede de proteção. Como a
+proposta busca justamente apoiar a passagem entre diferentes serviços, sua
+aplicação depende de um contexto no qual existam múltiplos pontos de
+atendimento e encaminhamento.
+
+### 4.5.1. Segmentos envolvidos no mercado
+
+| Segmento | Papel em relação à plataforma |
+|---|---|
+| Mulheres em situação de violência doméstica | Principais beneficiárias e usuárias da interface de acompanhamento da jornada. |
+| Profissionais da rede de proteção | Usuários operacionais responsáveis por registrar, consultar e acompanhar informações e encaminhamentos conforme suas permissões. |
+| Órgãos e instituições públicas | Potenciais clientes institucionais responsáveis pela adoção, contratação ou disponibilização da solução. |
+| Organizações especializadas e entidades parceiras | Podem atuar como parceiros, apoiadores ou potenciais usuários institucionais, dependendo do modelo adotado. |
+
+A partir dessa estrutura, nossa hipótese inicial é de um modelo com
+características B2G – Business to Government, no qual a startup desenvolve
+uma solução tecnológica utilizada pelo cidadão e por profissionais, mas sua
+contratação ocorre principalmente por instituições públicas. Essa definição
+ainda é uma hipótese e deverá ser aprofundada na Parte 5, durante a
+construção do modelo de negócio.
+
+### 4.5.2. Dimensionamento inicial do mercado
+
+Para organizar a oportunidade de expansão da startup, o mercado pode ser
+analisado inicialmente pelos conceitos de TAM, SAM e SOM. Neste momento,
+esses níveis representam alcance potencial, e não projeções financeiras.
+
+| Nível | Aplicação ao projeto |
+|---|---|
+| TAM – Mercado Potencial Total | Rede brasileira de atendimento às mulheres em situação de violência. Como referência inicial, foram registrados 2.617 serviços especializados no país em 2025. |
+| SAM – Mercado Disponível para atuação inicial | Serviços e instituições da rede de proteção do Distrito Federal, território escolhido inicialmente por estar mais próximo do nosso contexto e permitir validações mais controladas. |
+| SOM – Mercado inicialmente alcançável | Um conjunto reduzido de serviços do Distrito Federal conectado por um mesmo fluxo de encaminhamento, permitindo testar a plataforma antes de ampliar sua utilização. |
+
+O Distrito Federal constitui um ambiente pertinente para um primeiro recorte
+porque nosso próprio levantamento identificou discussões recentes sobre
+organização e padronização dos fluxos da Rede Distrital de Proteção à Mulher.
+Entretanto, isso não significa que os órgãos locais já tenham manifestado
+interesse em contratar ou utilizar a solução; essa possibilidade ainda deverá
+ser validada.
+
+A estratégia inicial, portanto, não seria tentar integrar imediatamente toda
+a rede do Distrito Federal ou do Brasil. Um MVP poderia ser validado com um
+número reduzido de serviços e um fluxo específico de encaminhamento,
+permitindo verificar se a proposta gera valor antes de aumentar a
+complexidade tecnológica e institucional.
+
+### 4.5.3. Oportunidade identificada no mercado
+
+A oportunidade de mercado está principalmente na possibilidade de oferecer
+uma solução especializada na continuidade entre serviços, em vez de criar
+mais um canal isolado de denúncia ou informação.
+
+O mercado já apresenta soluções importantes para etapas específicas da
+jornada, como orientação e denúncia pelo Ligue 180, apoio e segurança por
+meio do PenhaS, solicitação digital de medidas protetivas pelo Maria da Penha
+Virtual e integração física de serviços na Casa da Mulher Brasileira.
+Buscamos atuar de maneira complementar a essas iniciativas,
+concentrando-nos na transição entre diferentes atendimentos.
+
+A possibilidade de expansão da solução dependerá de fatores que ainda
+precisam ser validados, como interesse das instituições, viabilidade de
+integração com sistemas existentes, regras de acesso e compartilhamento de
+informações, segurança dos dados, capacidade de adaptação aos diferentes
+fluxos locais e disposição dos órgãos em adotar a plataforma.
+
+Por esse motivo, a análise de mercado ainda não apresenta estimativas de
+faturamento, preço ou participação de mercado em reais. Ainda precisamos
+validar quem efetivamente seria o cliente pagante, qual formato de
+contratação seria possível e quanto uma instituição estaria disposta a
+investir na solução. Criar essas estimativas sem evidências neste momento
+produziria números pouco confiáveis.
+
+Com as evidências disponíveis, é possível concluir que existe uma população
+potencialmente beneficiada ampla, uma rede institucional formada por milhares
+de serviços especializados e um espaço de investigação para soluções voltadas
+à continuidade dos atendimentos. A oportunidade comercial da startup, porém,
+dependerá da validação da proposta junto aos potenciais clientes
+institucionais e da definição de um modelo sustentável de criação, entrega e
+captura de valor, que será aprofundado na etapa de Modelo de Negócio.
 
 ---
 

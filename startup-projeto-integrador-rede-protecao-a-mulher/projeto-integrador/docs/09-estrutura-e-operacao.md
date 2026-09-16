@@ -1,18 +1,14 @@
 # 9. Estrutura e Operação
 
-> Seção ainda não desenvolvida — corresponde a Atividade 5 (05/11) do roteiro de entrega.
-> Manter este arquivo como placeholder até o grupo chegar nesta etapa, para
-> que a estrutura do repositório já reflita o roteiro completo.
+> Seção ainda não desenvolvida — corresponde a Atividade 4 (15/10) do roteiro de entrega.
 
 ## O que a professora exige nesta seção
 
-[Copiar aqui a coluna "O que deve constar" da tabela do roteiro para esta
-seção, como lembrete rápido ao abrir o arquivo.]
+Esta seção será desenvolvida nas próximas etapas do projeto, após a conclusão da fase de validação do problema, definição da proposta de valor e consolidação do modelo de negócio.
 
 ## Evidências mínimas exigidas
 
-[Copiar aqui a coluna "Evidências mínimas" da tabela do roteiro.]
 
 ## Status
 
-- [ ] Não iniciado
+- [x] Não iniciado

@@ -116,12 +116,6 @@ O gerenciamento das atividades do projeto é realizado por meio da plataforma **
 
 ---
 
-# Quadro de Gestão do Projeto
-
-![Backlog do Projeto](docs/images/backlog-trello.png)
-
----
-
 # 📈 Fluxo de Evolução do Projeto
 
 ```text

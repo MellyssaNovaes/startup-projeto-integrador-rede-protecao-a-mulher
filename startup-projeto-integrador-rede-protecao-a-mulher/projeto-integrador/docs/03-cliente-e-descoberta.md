@@ -94,7 +94,7 @@ acolhimento.
 
 Comparando os estudos e documentos pesquisados, algumas dificuldades aparecem
 de forma recorrente. Elas ainda não devem ser tratadas como universais, mas
-são pontos que merecem atenção na validação do grupo:
+são pontos que merecem nossa atenção na validação:
 
 - encaminhamento sem confirmação clara de que o atendimento seguinte
   aconteceu;
@@ -145,7 +145,7 @@ atendimento e informou que diferentes órgãos já possuíam fluxos próprios. A
 proposta discutida era reunir contribuições para construir um fluxo padrão e
 mais integrado para o DF. Isso sugere que a articulação existe, mas também
 que a padronização ainda está em processo de construção e aperfeiçoamento no
-território em que o grupo está inserido.
+território em que estamos inseridos.
 
 ## 3.6. Síntese do que já foi descoberto
 
@@ -179,7 +179,7 @@ contexto estudado.
 
 ## 3.8. Early adopter e persona provisória
 
-Com base nas evidências reunidas até o momento, o grupo trabalha com a
+Com base nas evidências reunidas até o momento, trabalhamos com a
 hipótese de que o early adopter seja a mulher que precisou circular por dois
 ou mais serviços da rede e acompanhar diferentes encaminhamentos relacionados
 ao mesmo caso. Esse perfil tende a perceber com mais clareza dificuldades

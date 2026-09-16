@@ -88,7 +88,38 @@ https://www.scielo.br/j/tce/a/xmcyKxfMc3mBswmvzNPbXdw/. Acesso em: 14 set.
 
 ---
 
-> **Nota do grupo:** a lista acima já está sem duplicatas — as referências que
-> apareciam repetidas ao juntar as Partes 2 e 3 (Lei Maria da Penha e
-> Fórum Brasileiro de Segurança Pública/Datafolha) foram unificadas em uma
-> única entrada cada.
+## ⚠️ Referências pendentes de completar
+
+As quatro fontes abaixo são **citadas no texto das seções 4.4 e 4.5** mas
+ainda não constavam na lista de referências. Precisam ser completadas antes
+da entrega, porque o roteiro exige que toda afirmação relevante esteja
+associada a uma fonte verificável — e a professora avalia exatamente essa
+rastreabilidade.
+
+INSTITUTO AZMINA. PenhaS. [Local]: Instituto AzMina, [ano]. Disponível em:
+[link do site ou da loja de aplicativos]. Acesso em: [data].
+
+> *Citado em 4.4, ao descrever as funcionalidades do aplicativo (Manual de
+> Fuga, contatos de confiança, mapa de serviços).*
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO. Maria da Penha Virtual.
+Rio de Janeiro: TJRJ, [ano]. Disponível em: [link]. Acesso em: [data].
+
+> *Citado em 4.4, ao descrever a solicitação digital de medidas protetivas.*
+
+BRASIL. Ministério das Mulheres. Relatório Anual Socioeconômico da Mulher –
+RASEAM. Brasília, DF: Ministério das Mulheres, 2026. p. [página].
+
+> *Citado em 4.5 — é a fonte do dado dos 2.617 serviços especializados, que
+> sustenta todo o cálculo de TAM. Esse é o número mais importante da seção de
+> mercado, então essa referência é a mais urgente de completar.*
+
+BRASIL. Ministério das Mulheres. [Título da página ou notícia sobre as
+unidades da Casa da Mulher Brasileira]. Brasília, DF, ago. 2026. Disponível
+em: [link]. Acesso em: [data].
+
+> *Citado em 4.4 — fonte do dado das 13 unidades em funcionamento.*
+
+---
+
+> seção de pendências.

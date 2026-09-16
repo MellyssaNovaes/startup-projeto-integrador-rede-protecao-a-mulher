@@ -1,8 +1,6 @@
 # 6. Hipóteses, Experimentos e Decisões
 
 > Seção ainda não desenvolvida — corresponde a Atividade 4 (15/10) do roteiro de entrega.
-> Manter este arquivo como placeholder até o grupo chegar nesta etapa, para
-> que a estrutura do repositório já reflita o roteiro completo.
 
 ## O que a professora exige nesta seção
 
